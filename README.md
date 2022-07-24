@@ -1,2 +1,2 @@
-# project-management-app
-A frontend application for the project management system.
+# Frontend application
+The frontend application of the project management system.
